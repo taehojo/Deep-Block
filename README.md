@@ -14,13 +14,19 @@ Genome-GPT is a software tool designed to analyze whole-genome sequencing (WGS) 
 
 ## Results
 
-Genome-GPT has produced promising results in the analysis of AD-related genetic variants:
+Genome-GPT successfully identified key LD blocks and SNPs associated with Alzheimer's disease (AD):
 
-- **Validation and Expansion:** The application of Genome-GPT to the ADSP R4 dataset, comprising WGS data from a large cohort of participants, validated and expanded findings from preliminary analyses. Leveraging the increased sample size and diversity of the dataset provided a more comprehensive understanding of the genetic landscape associated with AD.
+### Figure: Results of Genome-GPT
 
-- **Comparison with Existing Research:** The results obtained by Genome-GPT were compared with existing AD research, including data from the European Alzheimer's and Dementia Biobank (EADB) and the current genome-wide association study (GWAS) catalog. This comparison contextualized the findings and identified both established and novel genetic markers associated with AD.
+Results of Genome-GPT in identifying key LD blocks and SNPs associated with AD are summarized as follows:
 
-- **Performance Evaluation:** Genome-GPT demonstrated scalability and effectiveness in analyzing large-scale genomic datasets. The evaluation of optimized transformer models showed their ability to capture long-range dependencies and uncover complex genetic relationships, providing valuable insights into the genetic architecture of AD.
+- **Training Graph:** The transformer's training graph illustrates the optimization process during model training.
+  ![Genome-GPT Results1](training.png)
+- **Importance of LD Blocks:** LD blocks play a crucial role in capturing the genetic architecture of AD. This visualization highlights the significance of LD blocks in the analysis.
+  ![Genome-GPT Results2](ld.png)
+- **Identification of Significant SNPs:** Genome-GPT identifies significant SNPs within LD blocks. Notably, rs429358 emerged as the most important SNP, confirming known results and revealing new insights.
+  ![Genome-GPT Results3](hm.png)
+  ![Genome-GPT Results4](rs_top.png)
 
 ## License
 
