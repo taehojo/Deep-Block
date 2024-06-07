@@ -1,0 +1,1 @@
+The sample files consist of files containing LD block information, raw genome files, and label files indicating the presence or absence of Alzheimer's disease (AD). Upon request, more detailed data will be provided. Please contact tjo@iu.edu.
