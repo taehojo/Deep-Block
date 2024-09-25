@@ -1,5 +1,5 @@
 # Deep-Block 
-<sub>(Beta Version for Preliminary Experiments): Genetic Variant Analysis for Alzheimer's Disease</sub>
+(Beta Version for Preliminary Experiments) Genetic Variant Analysis for Alzheimer's Disease
 
 ## Overview
 
