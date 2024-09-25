@@ -1,4 +1,4 @@
-# Deep-Block: Genetic Variant Analysis for Alzheimer's Disease
+# Deep-Block (Beta Version for Preliminary Experiments): Genetic Variant Analysis for Alzheimer's Disease
 
 ## Overview
 
