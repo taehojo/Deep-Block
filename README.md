@@ -33,7 +33,7 @@ Results of Deep-Block in identifying key LD blocks and SNPs associated with AD a
 
 ## License
 
-Indiana University School of Medicine  
+**Indiana University School of Medicine**  
 Department of Radiology & Imaging Sciences  
 Indiana Alzheimer's Disease Research Center  
 Center for Neuroimaging  
